@@ -1,5 +1,5 @@
 import * as actionTypes from '../actions/actionTypes';
-import { fetchOrderFail } from '../actions/order';
+// import { fetchOrderFail } from '../actions/order';
 
 
 const initialState = {
